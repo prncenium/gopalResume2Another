@@ -16,7 +16,7 @@ export default function Navbar() {
         {/* LOGO */}
         <Link to="/" className={`flex items-center gap-3 group ${springTransition} hover:scale-110`}>
           <div className="w-2 h-2 rounded-full bg-cyan-neon shadow-[0_0_8px_#00f0ff] group-hover:shadow-[0_0_20px_#00f0ff] transition-all"></div>
-          <span className="text-xl font-bold tracking-widest text-white group-hover:text-cyan-neon transition-colors">GOPAL RAWAT</span>
+          <span className="text-xl font-bold tracking-widest text-white group-hover:text-cyan-neon transition-colors">Laxman Mahato</span>
         </Link>
 
         {/* DESKTOP LINKS - The "Apple Dock" Effect */}

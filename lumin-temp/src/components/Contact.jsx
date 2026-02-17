@@ -1,4 +1,4 @@
-import { Instagram, MessageCircle } from 'lucide-react';
+import { Instagram, MessageCircle, Linkedin } from 'lucide-react';
 
 export default function Contact() {
   return (
@@ -23,7 +23,7 @@ export default function Contact() {
         {/* === MAIN CTA BUTTON === */}
         <div className="mb-16">
           <a 
-            href="https://wa.me/918700341953" // Updated with your number
+            href="https://wa.me/" // Updated with your number
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-12 py-5 rounded-full bg-blue-600 hover:bg-blue-500 text-white font-bold text-xl tracking-wide shadow-[0_0_30px_rgba(37,99,235,0.4)] hover:shadow-[0_0_50px_rgba(37,99,235,0.6)] transition-all transform hover:-translate-y-1 hover:scale-105 active:scale-95"
@@ -37,7 +37,7 @@ export default function Contact() {
           
           {/* WhatsApp */}
           <a 
-            href="https://wa.me/918700341953" // Updated with your number
+            href="https://wa.me/919599357334" // Updated with your number
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-white transition-colors group"
@@ -46,16 +46,17 @@ export default function Contact() {
             <span className="text-lg font-medium">WhatsApp</span>
           </a>
 
-          {/* Instagram */}
-          <a 
-            href="https://www.instagram.com/gopal.edits0_0?igsh=MXZrZm92enpqMjZsdw%3D%3D&utm_source=qr" // Updated with your link
-            target="_blank" 
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 hover:text-white transition-colors group"
-          >
-            <Instagram size={24} className="group-hover:text-pink-500 transition-colors" />
-            <span className="text-lg font-medium">Instagram</span>
-          </a>
+          {/* LinkedIn */}
+<a 
+  href="https://www.linkedin.com/in/laxman-mahato-647190190?utm_source=share_via&utm_content=profile&utm_medium=member_ios" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  className="flex items-center gap-2 hover:text-white transition-colors group"
+>
+  <Linkedin size={24} className="group-hover:text-blue-500 transition-colors" />
+  <span className="text-lg font-medium">LinkedIn</span>
+</a>
+
 
         </div>
 

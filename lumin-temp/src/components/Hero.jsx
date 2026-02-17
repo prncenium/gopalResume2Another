@@ -1,9 +1,10 @@
 import { motion } from 'framer-motion';
-import { Play } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center text-center px-4 pt-20 overflow-hidden">
+    // === KEY FIX ===
+    // Changed 'pb-16' to 'pb-40' to increase the gap comfortably.
+    <section className="relative w-full flex flex-col items-center justify-center text-center px-4 pt-40 pb-40 overflow-hidden">
       
       {/* Background Glows (Subtle Ambient Light) */}
       <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-cyan-500/10 rounded-full blur-[120px] -z-10 animate-pulse" />
@@ -39,12 +40,12 @@ export default function Hero() {
         transition={{ delay: 0.6 }}
         className="flex flex-col sm:flex-row gap-6 items-center"
       >
-        {/* Neon Button - MAGNIFIES (scale-105) and glow INCREASES on hover */}
+        {/* Neon Button */}
         <a href="#work" className="px-10 py-4 rounded-full bg-cyan-neon text-black font-bold tracking-wider shadow-[0_0_20px_rgba(0,240,255,0.4)] hover:shadow-[0_0_40px_rgba(0,240,255,0.6)] hover:scale-105 transition-all duration-300">
           VIEW WORK
         </a>
 
-        {/* Glass Button - MAGNIFIES (scale-105) on hover */}
+        {/* Glass Button */}
         <a href="#contact" className="px-10 py-4 rounded-full bg-white/5 border border-white/10 text-white font-bold tracking-wider backdrop-blur-md hover:bg-white/10 hover:border-white/30 transition-all duration-300 hover:scale-105">
           GET IN TOUCH
         </a>

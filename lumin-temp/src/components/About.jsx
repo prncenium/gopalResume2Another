@@ -55,7 +55,7 @@ export default function About() {
             </h3>
             <div className="space-y-6 text-gray-400 leading-relaxed text-lg font-light">
               <p>
-                With over <span className="text-white font-semibold">2 years</span> of experience in the fast-paced world of video production, 
+                With over <span className="text-white font-semibold">5 years</span> of experience in the fast-paced world of video production, 
                 I've honed my skills in storytelling, pacing, and visual effects to deliver 
                 high-impact videos that resonate with audiences.
               </p>
@@ -82,7 +82,7 @@ export default function About() {
               className={`group rounded-3xl p-12 flex flex-col items-center justify-center text-center cursor-default ${glassCardClass} hover:border-cyan-400/30 hover:bg-white/10 transition-colors duration-300`}
             >
               <span className="block text-8xl font-display font-bold text-white mb-4 group-hover:text-cyan-neon transition-colors duration-300 drop-shadow-[0_0_25px_rgba(0,240,255,0.4)]">
-                2+
+                5+
               </span>
               <span className="text-gray-400 tracking-[0.2em] uppercase text-sm font-bold group-hover:text-white transition-colors">
                 Years of Experience

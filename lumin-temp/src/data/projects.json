@@ -1,50 +1,98 @@
 [
   {
     "id": 1,
-    "title": "Sample Video 1",
+    "title": "Your Big Day",
     "category": "Documentary Edit",
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&q=80",
-    "videoUrl": "https://drive.google.com/file/d/1GDw8vPvoEEK7_jYyxEGWl-87kCD76A2j/preview"
+    "videoUrl": "https://drive.google.com/file/d/1utNjbd2r4w9Pb3mc98giLm0jpnnK4axe/view?usp=drive_link"
   },
   {
     "id": 2,
-    "title": "Sample Video 2",
+    "title": "Leader's Empowering",
     "category": "Motion Graphic Edit",
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
-    "videoUrl": "https://drive.google.com/file/d/18X_0Vy4XwrgUqutFTNfXbxwGtgT97rYX/view?usp=sharing"
+    "videoUrl": "https://drive.google.com/file/d/1incUhQMdqtSRhrv5rmHU4Y-xYRZIL4bQ/view?usp=sharing"
   },
   {
     "id": 3,
-    "title": "Sample Video 3",
+    "title": "Cold Love Chef",
     "category": "Documentary Edit",
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1535016120720-40c6874c3b1c?w=800&q=80",
-    "videoUrl": "https://drive.google.com/file/d/1OkG-nVUIsA_37LiO0OiYNYXu1IczqNUC/preview"
+    "videoUrl": "https://drive.google.com/file/d/1jxOX8jNy4r-iyWBGc8MnyRTsHAjahAbG/view?usp=drive_link"
   },
   {
     "id": 4,
-    "title": "Sample Video 4",
+    "title": "Stage Speechable Performance",
     "category": "Motion Graphic Edit",
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
-    "videoUrl": "https://drive.google.com/file/d/1p_wYXDK5i6_2KZAZlaDup-DJm9TwClXV/view?usp=sharing"
+    "videoUrl": "https://drive.google.com/file/d/1jYrlJGcgEhxR-Y_VUX68o-0Z-h1_jTtK/view?usp=drive_link"
   },
   {
     "id": 5,
-    "title": "Sample Video 5",
+    "title": "Sound Engineering",
     "category": "Documentary Edit",
     "type": "drive",
     "image": "",
-    "videoUrl": "https://drive.google.com/file/d/1pIXATd30yLZl4lPESkYVdQ2VO-hUp3tv/view?usp=sharing"
+    "videoUrl": "https://drive.google.com/file/d/1I304BEFfRmdA2tIELekFlV6Hift-RHP4/view?usp=drive_link"
   },
   {
     "id": 6,
-    "title": "Sample Video 6",
+    "title": "KBR Transition",
     "category": "Motion Graphic Edit",
     "type": "drive",
     "image": "https://img.youtube.com/vi/3WQlLsAToK8/maxresdefault.jpg",
-    "videoUrl": "https://drive.google.com/file/d/12mxVEtfJMKKcUaMvUrOY1IPVRONswZ2X/view?usp=sharing"
+    "videoUrl": "https://drive.google.com/file/d/1p_fcDo9lj6cKWJCJPGnt8S6e9AN6uBEm/view?usp=drive_link"
+  },
+  {
+    "id": 7,
+    "title": "Capturing Moments",
+    "category": "Motion Graphic Edit",
+    "type": "drive",
+    "image": "",
+    "videoUrl": "https://drive.google.com/file/d/1jgalV1wItAfhiRLeC8QW11MNptcvDT7R/view?usp=drive_link"
+  },
+  {
+    "id": 8,
+    "title": "Transition on Hands",
+    "category": "Documentary Edit",
+    "type": "drive",
+    "image": "",
+    "videoUrl": "https://drive.google.com/file/d/1J1IAtSzDc_WkjkLLRd-i2ZyLSEMh5rDm/view?usp=drive_link"
+  },
+  {
+    "id": 9,
+    "title": "Grinding Gears",
+    "category": "Motion Graphic Edit",
+    "type": "drive",
+    "image": "",
+    "videoUrl": "https://drive.google.com/file/d/1XvCKEtuwz6gn6t5R-RgSR26rv38yS20k/view?usp=drive_link"
+  },
+  {
+    "id": 10,
+    "title": "Cinematic Transitions",
+    "category": "Documentary Edit",
+    "type": "drive",
+    "image": "",
+    "videoUrl": "https://drive.google.com/file/d/1yUoEJiaGPnCVr-VasVjwzyAzzSi8so79/view?usp=drive_link"
+  },
+  {
+    "id": 11,
+    "title": "I Phone",
+    "category": "Motion Graphic Edit",
+    "type": "drive",
+    "image": "",
+    "videoUrl": "https://drive.google.com/file/d/1I304BEFfRmdA2tIELekFlV6Hift-RHP4/view?usp=sharing"
+  },
+  {
+    "id": 12,
+    "title": "Professional Transitions",
+    "category": "Documentary Edit",
+    "type": "drive",
+    "image": "",
+    "videoUrl": "https://drive.google.com/file/d/1p_fcDo9lj6cKWJCJPGnt8S6e9AN6uBEm/view?usp=drive_link"
   }
 ]
