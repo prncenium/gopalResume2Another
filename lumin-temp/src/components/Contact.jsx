@@ -11,7 +11,7 @@ export default function Contact() {
         
         {/* Main Title Area */}
         <div className="mb-12">
-          <h2 className="text-4xl md:text-6xl font-display font-bold text-white mb-6 tracking-tight">
+          <h2 className="text-4xl md:text-6xl font-satoshi font-extrabold text-white mb-9 tracking-tighter">
             Let's Create Together
           </h2>
           <p className="text-gray-400 text-lg md:text-xl leading-relaxed max-w-2xl mx-auto font-light">

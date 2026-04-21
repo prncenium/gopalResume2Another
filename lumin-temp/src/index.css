@@ -75,3 +75,13 @@
 ::-webkit-scrollbar-thumb:hover {
   background: var(--color-cyan-neon);
 }
+
+@import url('https://api.fontshare.com/v2/css?f[]=satoshi@900,700,500,300&display=swap');
+
+body {
+  font-family: 'Satoshi', sans-serif;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.04em; /* This "pro" touch changes everything */
+}

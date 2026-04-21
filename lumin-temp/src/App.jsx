@@ -5,6 +5,8 @@ import Contact from './components/Contact';
 import Navbar from './components/Navbar'
 import WorkGrid from './components/WorkGrid';
 import About from './components/About';
+import Testimonials from './components/Testimonials';
+import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
   
@@ -18,6 +20,8 @@ function App() {
           
           <WorkGrid/>
           <About/>
+          <Testimonials />
+          <WhatsAppButton />
           <Contact/>
         </main>
 

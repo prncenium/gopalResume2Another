@@ -47,12 +47,15 @@ export default function About() {
             viewport={{ once: true }}
             transition={{ duration: 1.5, ease: "easeOut" }}
           >
-            <h2 className="text-4xl md:text-5xl font-display font-bold text-white mb-6 tracking-tight">
+            <span className="font-mono text-[10px] tracking-[0.5em] text-cyan-500/60 uppercase mb-2 block">
+  Storyteller — 01
+</span>
+            <h2 className="text-5xl md:text-7xl font-satoshi font-extrabold text-white mb-4 tracking-tighter leading-[0.85]">
               About Me
             </h2>
-            <h3 className="text-2xl text-cyan-400 mb-6 font-medium tracking-wide">
-              Transforming Ideas into Cinematic Reality
-            </h3>
+            <h3 className="text-xl md:text-2xl text-white/90 mb-6 font-semibold tracking-tight leading-snug max-w-xl">
+  Transforming Ideas into <span className="text-cyan-400">Cinematic Reality</span>
+</h3>
             <div className="space-y-6 text-gray-400 leading-relaxed text-lg font-light">
               <p>
                 With over <span className="text-white font-semibold">2 years</span> of experience in the fast-paced world of video production, 
@@ -81,10 +84,10 @@ export default function About() {
               transition={{ type: "spring", stiffness: 300, damping: 20 }}
               className={`group rounded-3xl p-12 flex flex-col items-center justify-center text-center cursor-default ${glassCardClass} hover:border-cyan-400/30 hover:bg-white/10 transition-colors duration-300`}
             >
-              <span className="block text-8xl font-display font-bold text-white mb-4 group-hover:text-cyan-neon transition-colors duration-300 drop-shadow-[0_0_25px_rgba(0,240,255,0.4)]">
+              <span className="block text-8xl font-display font-bold block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500  mb-4 group-hover:text-cyan-neon transition-colors duration-300 drop-shadow-[0_0_25px_rgba(0,240,255,0.4)]">
                 2+
               </span>
-              <span className="text-gray-400 tracking-[0.2em] uppercase text-sm font-bold group-hover:text-white transition-colors">
+              <span className="text-white/30 tracking-[0.4em] uppercase text-sm font-bold font-mono group-hover:text-white transition-colors">
                 Years of Experience
               </span>
             </motion.div>
@@ -103,7 +106,11 @@ export default function About() {
           transition={{ duration: 1.5 }}
           className="text-center mb-20"
         >
-          <h2 className="text-4xl md:text-5xl font-display font-bold text-white mb-6 tracking-tight">
+
+          <span className="font-mono text-[10px] tracking-[0.5em] text-cyan-500/60 uppercase mb-2 block">
+  Capabilities — 02
+</span>
+          <h2 className="text-5xl md:text-7xl font-satoshi font-extrabold block text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500  mb-4 tracking-tighter leading-none">
             Services I Provide
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto text-lg font-light">
@@ -134,10 +141,10 @@ export default function About() {
                 
                 {/* Text Content */}
                 <div>
-                  <h3 className="text-2xl font-display font-bold text-white mb-3 group-hover:text-cyan-neon transition-colors">
+                  <h3 className="text-xl font-satoshi font-bold text-white mb-2 group-hover:text-cyan-400 transition-colors tracking-tight">
                     {service.title}
                   </h3>
-                  <p className="text-base text-gray-400 leading-relaxed group-hover:text-gray-200 font-light transition-colors">
+                  <p className="text-sm text-white/50 leading-relaxed group-hover:text-white/80 font-light transition-colors">
                     {service.desc}
                   </p>
                 </div>

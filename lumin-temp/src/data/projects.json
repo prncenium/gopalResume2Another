@@ -4,6 +4,7 @@
     "title": "Sample Video 1",
     "category": "Documentary Edit",
     "type": "drive",
+    "isVertical": false,
     "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=800&q=80",
     "videoUrl": "https://drive.google.com/file/d/1GDw8vPvoEEK7_jYyxEGWl-87kCD76A2j/preview"
   },
@@ -11,6 +12,7 @@
     "id": 2,
     "title": "Sample Video 2",
     "category": "Motion Graphic Edit",
+    "isVertical": false,
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
     "videoUrl": "https://drive.google.com/file/d/18X_0Vy4XwrgUqutFTNfXbxwGtgT97rYX/view?usp=sharing"
@@ -19,6 +21,7 @@
     "id": 3,
     "title": "Sample Video 3",
     "category": "Documentary Edit",
+    "isVertical": false,
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1535016120720-40c6874c3b1c?w=800&q=80",
     "videoUrl": "https://drive.google.com/file/d/1OkG-nVUIsA_37LiO0OiYNYXu1IczqNUC/preview"
@@ -27,6 +30,7 @@
     "id": 4,
     "title": "Sample Video 4",
     "category": "Motion Graphic Edit",
+    "isVertical": true,
     "type": "drive",
     "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
     "videoUrl": "https://drive.google.com/file/d/1p_wYXDK5i6_2KZAZlaDup-DJm9TwClXV/view?usp=sharing"
@@ -35,6 +39,7 @@
     "id": 5,
     "title": "Sample Video 5",
     "category": "Documentary Edit",
+    "isVertical": false,
     "type": "drive",
     "image": "",
     "videoUrl": "https://drive.google.com/file/d/1pIXATd30yLZl4lPESkYVdQ2VO-hUp3tv/view?usp=sharing"
@@ -43,6 +48,7 @@
     "id": 6,
     "title": "Sample Video 6",
     "category": "Motion Graphic Edit",
+    "isVertical": true,
     "type": "drive",
     "image": "https://img.youtube.com/vi/3WQlLsAToK8/maxresdefault.jpg",
     "videoUrl": "https://drive.google.com/file/d/12mxVEtfJMKKcUaMvUrOY1IPVRONswZ2X/view?usp=sharing"
